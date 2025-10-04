@@ -1,4 +1,4 @@
-## Todo App (Jetpack Compose)
+# Todo App (Jetpack Compose)
 
 This is a small Todo app I built for CPSC 411A using Kotlin and Jetpack Compose.  
 It shows how to use data classes, state, remember/rememberSaveable, and state hoisting.
